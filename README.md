@@ -13,6 +13,7 @@ validate orders based on zones, assign the nearest delivery person, and notify t
 4. Copy `.env` file and set your database credentials
 5. Generate application key
 6. Run migrations and seeders
+7. php artisan migrate --seed
 
 ## Assumptions
 
